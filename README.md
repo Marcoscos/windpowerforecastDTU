@@ -12,6 +12,4 @@ PS: For the best experience reviewing the notebooks, it is recommended to make u
 
 
 Authors:
-Alvaro Carrera Cardeli
-Marcos Ivorra Peleguer
-Santiago Ribelles Garcia
+Alvaro Carrera Cardeli, Marcos Ivorra Peleguer and Santiago Ribelles Garcia
